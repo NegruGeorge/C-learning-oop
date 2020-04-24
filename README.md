@@ -4,4 +4,7 @@ oop in c++ ( a project made to rent movies,it is in romanian...)
 you need to download the file and unzip it
 you fill find all .cpp an .h file in there.
 
-run the main.cpp module
+run the main.cpp file
+
+
+(I made the project in visual studio 2019 if that help )
